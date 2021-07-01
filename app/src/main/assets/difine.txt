@@ -1,0 +1,10 @@
+person
+fire
+cat
+dog
+sofa
+chair
+refreg
+tv
+table
+phone
